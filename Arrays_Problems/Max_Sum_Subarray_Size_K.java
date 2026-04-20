@@ -19,7 +19,7 @@ class Size_k{
             maxSum = Math.max(Sum,maxSum);
         }
         System.out.println("Maximum sum of a subarray of size k is: " + maxSum);
-}
+    }
 }
 
 public class Max_Sum_Subarray_Size_K {

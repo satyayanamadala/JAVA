@@ -13,3 +13,6 @@ class CountAlphabets{
         System.out.println("Number of Alphabets:" + count);
     }
 }
+/* output:
+Number of Alphabets:8       
+ */

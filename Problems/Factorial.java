@@ -10,3 +10,6 @@ public class Factorial {
     System.out.println("The Factorial of the number is :" + fact);
     }
 }
+/* Output:
+The Factorial of the number is :120
+ */

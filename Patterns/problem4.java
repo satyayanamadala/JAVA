@@ -10,3 +10,11 @@ public class problem4 {
         }
     }
 }
+/* Output:
+
+ * * * * *
+ * * * *
+ * * *
+ * *
+ *
+ */
